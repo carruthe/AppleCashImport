@@ -5,8 +5,13 @@ An Excel file with Power Query functionality that allows you to convert the PDF 
 Created with Microsoft Excel for Windows, Version 2301 (Office 365)
 Standard XLSX format, no macros.
 
-YouTube video on my channel with demonstration will be forthcoming.
-http://www.youtube.com/thegraindoctor
+# YouTube Demonstration
+
+YouTube video on my channel with demonstration available here: https://youtu.be/eebVDQ0qxqk
+
+![image](https://user-images.githubusercontent.com/23384422/218321006-6618a805-2390-414a-8e6f-820c51095fc4.png)
+
+# Instructions
 
 1) Download your PDF statement from the Wallet App
 
