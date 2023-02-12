@@ -5,7 +5,8 @@ An Excel file with Power Query functionality that allows you to convert the PDF 
 Created with Microsoft Excel for Windows, Version 2301 (Office 365)
 Standard XLSX format, no macros.
 
-YouTube video with demonstration will be forthcoming.
+YouTube video on my channel with demonstration will be forthcoming.
+https://www.thegraindoctor.com
 
 1) Download your PDF statement from the Wallet App
 
