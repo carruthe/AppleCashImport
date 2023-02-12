@@ -13,7 +13,8 @@ YouTube video on my channel with demonstration available here: https://youtu.be/
 
 # Instructions
 
-1) Download your PDF statement from the Wallet App
+1) Download the xlsx spreadhseet from this repository.  I also included a sample statement for you to test out before you use it on your own statement.
+2) Download your PDF statement from the Wallet App
 
 ![image](https://user-images.githubusercontent.com/23384422/218314039-ba512ac6-ae8f-41b9-aa9f-9665765dde02.png)
 
