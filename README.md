@@ -6,7 +6,7 @@ Created with Microsoft Excel for Windows, Version 2301 (Office 365)
 Standard XLSX format, no macros.
 
 YouTube video on my channel with demonstration will be forthcoming.
-https://www.thegraindoctor.com
+http://www.youtube.com/thegraindoctor
 
 1) Download your PDF statement from the Wallet App
 
