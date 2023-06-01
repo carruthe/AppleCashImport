@@ -5,6 +5,12 @@ An Excel file with Power Query functionality that allows you to convert the PDF 
 Created with Microsoft Excel for Windows, Version 2301 (Office 365)
 Standard XLSX format, no macros.
 
+# Query "CleanAllTransactions" references other queries.... ERROR
+
+If you get this error when running the spreadsheet, check out the issue here to work around it.
+
+https://github.com/carruthe/AppleCashImport/issues/1#issuecomment-1571228042
+
 # YouTube Demonstration
 
 YouTube video on my channel with demonstration available here: https://youtu.be/eebVDQ0qxqk
